@@ -1,0 +1,8 @@
+/model/
+*.pkl
+*.json
+*.txt
+*.bin
+*.pyc
+/idea/model/
+/log/
